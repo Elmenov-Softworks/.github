@@ -1,6 +1,7 @@
 # Elmenov Softworks
 
-Independent software projects focused on TypeScript libraries and developer tools.
+We build AI tools, games, and applications that improve everyday life.
+Our current open-source work includes TypeScript libraries and developer tools.
 
 ## Open-source projects
 
